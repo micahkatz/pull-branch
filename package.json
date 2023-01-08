@@ -1,0 +1,26 @@
+{
+    "name": "pull-branch",
+    "version": "1.0.0",
+    "description": "This will pull your current github branch from origin",
+    "main": "pull-branch",
+    "bin": "pull-branch",
+    "scripts": {
+        "test": "pull-branch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/micahkatz/pull-branch.git"
+    },
+    "keywords": [
+        "git",
+        "script",
+        "zsh",
+        "bash"
+    ],
+    "author": "Micah Katz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/micahkatz/pull-branch/issues"
+    },
+    "homepage": "https://github.com/micahkatz/pull-branch#readme"
+}
